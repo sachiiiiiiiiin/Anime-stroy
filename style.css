@@ -25,9 +25,9 @@
 
         }
         
-        @media screen600px {
+
         
-        }.container{
+        .container{
             
     background-color: blue
     ;
@@ -38,6 +38,9 @@
     text-align: center;
     align-items: center;
     margin-right: 20px;
+        }
+        @media (289px) {
+            
         }
         
     
