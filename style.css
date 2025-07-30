@@ -24,7 +24,10 @@
             background-color:rgba(red, green, blue, alpha);
 
         }
-        .container{
+        
+        @media screen600px {
+        
+        }.container{
             
     background-color: blue
     ;
