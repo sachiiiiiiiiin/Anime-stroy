@@ -1,0 +1,40 @@
+
+        p{
+        color:blue;
+        }
+        .story{
+            background-color: yellow; padding: 20px;
+        }
+        .images{
+            text-align: center;
+            background-color: red;
+            margin-top: 10px;
+            width: 100%;
+            size: 50%
+            ;
+            p{
+     color: whitesmoke;
+            }
+            border-top: 22px color(solid
+            black);
+            padding: 20px;
+
+        }
+        body{
+            background-color:rgba(red, green, blue, alpha);
+
+        }
+        .container{
+            
+        text-align: center;
+        background-color: blue;
+        margin: 100px;
+        margin-top: 11px;
+        margin-bottom: 11px;
+        padding: 18px;
+        border: 2px, solid black;
+        }
+        
+    
+    
+    
