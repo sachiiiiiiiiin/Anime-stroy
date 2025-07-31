@@ -41,15 +41,45 @@
     align-items: center;
 
     align-content: center;
-    border-width: 2px;
+    /* border-width: 2px;
     border-style: solid;
-    border-color: aqua;
+    border-color: aqua; */
+    border: 2px solid aqua ;
+    border-radius: 15px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 25px;
+padding-top: 25px;
         }
         @media (289px) {
             
         }
         button{
             background-color: rgb(230, 68, 14);
+        }
+        *{
+            margin: 0px;
+            padding: 0px;
+            color: white;
+
+        }
+        #nav{
+            height: 60px;
+            background-color: maroon;
+
+        }
+        #logo{
+            color: rgb(230, 68, 14);
+            font-size: 25px;
+        }
+
+        a{
+            margin-right: 120px;
+            text-decoration: none;
+        }
+        #search{
+            padding: 0px;
+            padding-right: 0px;
         }
         
     
