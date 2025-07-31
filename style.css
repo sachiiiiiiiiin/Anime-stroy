@@ -21,7 +21,7 @@
 
         }
         body{
-            background-color:rgba(red, green, blue, alpha);
+            background-color:rgb(46, 184, 158);
 
         }
         
@@ -31,16 +31,25 @@
             
     background-color: blue
     ;
-    margin: 100px;
-    padding: 50px;
+    margin: 50px;
+    
 
-    width: 220px;
+    width: 300px;
+
+    height: 400px;
     text-align: center;
     align-items: center;
-    margin-right: 20px;
+
+    align-content: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
         }
         @media (289px) {
             
+        }
+        button{
+            background-color: rgb(230, 68, 14);
         }
         
     
