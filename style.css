@@ -24,13 +24,12 @@
             background-color:rgb(46, 184, 158);
 
         }
-        
-
-        
-        .container{
-            
-    background-color: blue
-    ;
+    @media (max-width: 468px) {}
+         .container{
+    background-image: url(martin-martz-JSxVQ1Dm6_8-unsplash.jpg);   
+    background-size: cover;     
+    
+    
     margin: 50px;
     
 
@@ -50,12 +49,19 @@ padding-left: 25px;
 padding-right: 25px;
 padding-bottom: 25px;
 padding-top: 25px;
+position: relative;
+left: 200px;
         }
-        @media (289px) {
-            
-        }
+    
+
+    
+       
+
+        
         button{
-            background-color: rgb(230, 68, 14);
+            background-image: url(joshua-reddekopp-YQnTaPvCLGo-unsplash.jpg);
+
+            padding: 4px;
         }
         *{
             margin: 0px;
